@@ -31,28 +31,28 @@ const imageAltText = "books";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Portfolio Website🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This was my first web-app which featured my portfolio.",
+    url: "https://vyshaj.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Metacity",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A C++ project implemented on the idea of the future of metaverse.",
+    url: "https://github.com/ishtails/MetaCity",
   },
   {
-    title: "My Resume Site",
+    title: "Virtual Mouse",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Python and OpenCV presents, Virtual Mouse.",
+    url: "https://github.com/vyshaj/Virtual-Mouse",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Report Card Generatorv",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My first ever programming project.",
+    url: "https://github.com/vyshaj/Report-Card-Generator",
   },
 ];
 
